@@ -1,4 +1,4 @@
-const parentDiv = document.querySelector('.Feed__content');
+const parentDiv = document.querySelector('.feed__content');
 if (parentDiv) {
   console.log('Elemento pai com classe ".Feed__content" encontrado!');
 
